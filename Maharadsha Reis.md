@@ -14,5 +14,7 @@ Personen: 4
 ## Anleitung
 
 1. Trockenfruechte in heissem Wasser einweichen
-2. In einer Pfanne die Butter schmelzen lassen
+2. In einer Pfanne die Nuesse bei mittlerer hitze 1-2m anbraten ()
+3. In einer Pfanne die Butter schmelzen lassen
+4. 
 
