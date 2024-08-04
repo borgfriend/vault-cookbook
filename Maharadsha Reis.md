@@ -8,8 +8,11 @@ Personen: 4
 * 50g gehackte Nuesse (Mandeln, Pizstazien)
 * 4 Nelken
 * 10 Pfefferkoerner
+* 25g Butter
+* Salz
 
 ## Anleitung
 
-1. 
+1. Trockenfruechte in heissem Wasser einweichen
+2. In einer Pfanne die Butter schmelzen lassen
 
