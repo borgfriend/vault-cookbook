@@ -19,5 +19,7 @@ Personen: 4
 4. In einer Pfanne die Butter schmelzen lassen
 5. Nelken und Pfeffer anbraten bis es duftet
 6. In den Topf mit Reis Schuetten und einmal umruehren
-7. Reis mit 
+7. Reis mit 400ml Wasser kochen
+8. Gegen ende der kochzeit, die TRockenfruechte kleinschneiden
+9. Fertigen Reis mit Nuessen und Fruechten vermischen.
 
