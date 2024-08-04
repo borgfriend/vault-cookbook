@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Breakfast.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Breakfast.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Breakfast.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Breakfast.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -202,14 +202,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ec7dc566b131f7b",
+  "active": "18083a79ae2b1b37",
   "lastOpenFiles": [
+    "docs/Protein Maxed Chicken Fried Rice.md",
+    "docs/fleisch/Philly Cheesesteak Variant.md",
+    "docs/general/Garlic Bread.md",
+    "Breakfast/Cheap Breakfast Sandwich.md",
+    "Breakfast.md",
     "Dessert.md",
     "Cake",
     "docs/intro.md",
     "Dinner.md",
     "Breakfast/AmericanPancakes.md",
-    "Breakfast.md",
     "Breakfast/NealsPfannkuchen.md",
     "Dessert/Kaiserschmarrn.md",
     "Dessert/Kaiserschmarrn.jpg",
@@ -233,10 +237,7 @@
     "docs/pasta/PastaDieGlücklichMacht.md",
     "docs/pasta/LinguineMitGarnelen.md",
     "docs/pasta/LinguineMitGarnelen.jpg",
-    "docs/pasta/Lasagna.md",
     "docs/pasta",
-    "docs/indian/Uppendi.md",
-    "docs/indian/Murruku.md",
     "docs/indian",
     "docs/general",
     "docs/fleisch",
