@@ -1,0 +1,15 @@
+* [[Waffeln]]
+* [[Muffins]]
+* [[Kaiserschmarrn]]
+* [[Griesbrei]]
+* [[ChocolateChipCookies]]
+
+## Cake
+* [[ApfelkuchenFrZeller]]
+* [[Bananenbrot]]
+* [[BiskuitrolleFrZeller]]
+* [[Brownies]]
+* [[EnglisherKuchenFrZeller]]
+* [[ErdbeerRolleFrZeller]]
+* [[jamiesBananenbrot]]
+* [[Tiroler-Nusskuchen]]
