@@ -4,102 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3b5c0b8ff82848ff",
+        "id": "3e46a5cda554ea46",
         "type": "tabs",
         "children": [
           {
-            "id": "bd9718c25cf7e15d",
+            "id": "2c9945c67c1528b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2125bf5249a2e86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ec7dc566b131f7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/fleisch/Philly Cheesesteak Variant.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "7567ccc39b2cbb53",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bea2f06e4c7c79b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7b43bf425b8adb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d639287099654d21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side Dish.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ec9b2c53e7078e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Breakfast/AmericanPancakes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Breakfast/AmericanPancakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Breakfast/AmericanPancakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Breakfast/AmericanPancakes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -226,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ec9b2c53e7078e4",
+  "active": "2c9945c67c1528b2",
   "lastOpenFiles": [
+    "Breakfast/AmericanPancakes.md",
     "Maharadsha Reis.md",
     "Side Dish.md",
     "Welcome.md",
-    "Breakfast/AmericanPancakes.md",
     "SideDish",
     "docs/fleisch/Philly Cheesesteak Variant.md",
     "docs/Untitled.md",
