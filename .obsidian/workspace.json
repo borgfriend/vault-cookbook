@@ -90,12 +90,8 @@
             "id": "8ec9b2c53e7078e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maharadsha Reis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -165,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maharadsha Reis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +177,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maharadsha Reis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,9 +198,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maharadsha Reis.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -228,8 +220,8 @@
   },
   "active": "8ec9b2c53e7078e4",
   "lastOpenFiles": [
-    "Side Dish.md",
     "Maharadsha Reis.md",
+    "Side Dish.md",
     "Welcome.md",
     "Breakfast/AmericanPancakes.md",
     "SideDish",
