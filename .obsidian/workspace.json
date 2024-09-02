@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/suppe/Cocobello-Suppe.md",
+                "file": "Maharadsha Reis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/suppe/Cocobello-Suppe.md",
+                "file": "Maharadsha Reis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/suppe/Cocobello-Suppe.md",
+                "file": "Maharadsha Reis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/suppe/Cocobello-Suppe.md"
+                "file": "Maharadsha Reis.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c9945c67c1528b2",
+  "active": "18083a79ae2b1b37",
   "lastOpenFiles": [
+    "docs/suppe/Cocobello-Suppe.md",
     "docs/sandwiches/Clubsandwich-Lachs.md",
     "docs/general/MildesGemueseCurry.md",
     "docs/fleisch/UsbekischerPlow.md",
@@ -176,7 +177,6 @@
     "docs/suppe/ZwiebelSenfSuppe.md",
     "docs/suppe/PilzSuppe.md",
     "docs/suppe/Kartoffelsuppe.md",
-    "docs/suppe/Cocobello-Suppe.md",
     "docs/suppe/ChilliConCarne.md",
     "docs/suppe",
     "docs/sandwiches",
