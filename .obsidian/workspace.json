@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dessert/cake/ApfelkuchenFrZeller.md",
+                "file": "Dessert/Griesbrei.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dessert/cake/ApfelkuchenFrZeller.md",
+                "file": "Dessert/Griesbrei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dessert/cake/ApfelkuchenFrZeller.md",
+                "file": "Dessert/Griesbrei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dessert/cake/ApfelkuchenFrZeller.md"
+                "file": "Dessert/Griesbrei.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "2c9945c67c1528b2",
   "lastOpenFiles": [
+    "Dessert/cake/ApfelkuchenFrZeller.md",
     "Breakfast/Cheap Breakfast Sandwich.md",
     "Breakfast/NealsPfannkuchen.md",
     "Breakfast/AmericanPancakes.md",
@@ -179,7 +180,6 @@
     "docs/sandwiches/Neals-Philly-Cheese.md",
     "docs/sandwiches/Clubsandwich-Lachs.md",
     "docs/sandwiches",
-    "docs/pasta/Zapekana.md",
     "docs/pasta/Zapekana.jpg",
     "docs/pasta/LinguineMitGarnelen.jpg",
     "docs/pasta",
