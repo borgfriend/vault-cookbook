@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/general/Garlic Bread.md",
+                "file": "Dessert/cake/ApfelkuchenFrZeller.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/general/Garlic Bread.md",
+                "file": "Dessert/cake/ApfelkuchenFrZeller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/general/Garlic Bread.md",
+                "file": "Dessert/cake/ApfelkuchenFrZeller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/general/Garlic Bread.md"
+                "file": "Dessert/cake/ApfelkuchenFrZeller.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "2c9945c67c1528b2",
   "lastOpenFiles": [
+    "docs/general/Garlic Bread.md",
     "Dessert/cake/ApfelkuchenFrZeller.md",
     "Dessert.md",
     "Maharadsha Reis.md",
@@ -165,7 +166,6 @@
     "docs/fleisch/Philly Cheesesteak Variant.md",
     "docs/Untitled.md",
     "docs/Protein Maxed Chicken Fried Rice.md",
-    "docs/general/Garlic Bread.md",
     "Breakfast.md",
     "Cake",
     "docs/intro.md",
