@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dessert/cake/ApfelkuchenFrZeller.md",
+                "file": "docs/general/Garlic Bread.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dessert/cake/ApfelkuchenFrZeller.md",
+                "file": "docs/general/Garlic Bread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dessert/cake/ApfelkuchenFrZeller.md",
+                "file": "docs/general/Garlic Bread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dessert/cake/ApfelkuchenFrZeller.md"
+                "file": "docs/general/Garlic Bread.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "2c9945c67c1528b2",
   "lastOpenFiles": [
-    "docs/general/Garlic Bread.md",
     "Dessert/cake/ApfelkuchenFrZeller.md",
+    "docs/general/Garlic Bread.md",
     "Dessert.md",
     "Maharadsha Reis.md",
     "docs/suppe/Cocobello-Suppe.md",
