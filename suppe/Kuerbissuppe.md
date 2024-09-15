@@ -25,4 +25,8 @@ frisch geriebene Muskatnuss
 ## Zubreitung
 1. Kurbis,Kartoffel wuerfeln
 2. Zwiebel, Knoblauch fein wuerfeln
-3. Butter schmelzen und Ziebel + Knoblauch 
+3. Butter schmelzen und Ziebel + Knoblauch glasig braten
+4. Kuerbis, Kartoffel dazugeben (2min)
+5. mit 500ml Gemuesebruehe fuer 20min auf mittlerer Hitze
+6. Sahne hinzugeben
+7. Salz, Peffer und Muskatnuss
