@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dinner.md",
+                "file": "Breakfast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dinner.md",
+                "file": "Breakfast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dinner.md"
+                "file": "Breakfast.md"
               }
             }
           }
@@ -159,25 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18083a79ae2b1b37",
+  "active": "1d29d5871bdf09e0",
   "lastOpenFiles": [
-    "Dessert/cake/Fr Zeller Apfelkuchen.md",
+    "Maharadsha Reis.md",
+    "Side Dish.md",
+    "Welcome.md",
+    "Breakfast/NealsPfannkuchen.md",
     "Breakfast/AmericanPancakes.md",
-    "Chicken Tikka Masala.md",
     "Dinner.md",
+    "Dessert/cake/Fr Zeller Apfelkuchen.md",
+    "Chicken Tikka Masala.md",
     "Untitled",
     "docs/general/Garlic Bread.md",
     "Dessert.md",
-    "Maharadsha Reis.md",
     "docs/suppe/Cocobello-Suppe.md",
     "docs/sandwiches/Clubsandwich-Lachs.md",
     "docs/general/MildesGemueseCurry.md",
     "docs/fleisch/UsbekischerPlow.md",
     "Dessert/Griesbrei.md",
     "Breakfast/Cheap Breakfast Sandwich.md",
-    "Breakfast/NealsPfannkuchen.md",
-    "Side Dish.md",
-    "Welcome.md",
     "SideDish",
     "docs/fleisch/Philly Cheesesteak Variant.md",
     "docs/Untitled.md",
