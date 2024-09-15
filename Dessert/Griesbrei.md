@@ -1,4 +1,4 @@
-# Griesbrei
+#dessert 
 
 ## Zutaten
 
@@ -16,4 +16,4 @@ Zucker oder man kann auch Vanillin-Zucker nehmen 40 Gramm
 
 4.Wir essen oft eingemachtes Obst dazu oder eine Zucker-Zim-Mischung
 
-## Quelle: https://www.kochbar.de/rezept/239782/Stinknormaler-Griesbrei.html
+*Source*: https://www.kochbar.de/rezept/239782/Stinknormaler-Griesbrei.html

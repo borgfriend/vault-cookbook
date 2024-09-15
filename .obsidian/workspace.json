@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dessert/cake/EnglisherKuchenFrZeller.md",
+                "file": "Dessert/Kaiserschmarrn.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dessert/cake/EnglisherKuchenFrZeller.md",
+                "file": "Dessert/Kaiserschmarrn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dessert/cake/EnglisherKuchenFrZeller.md",
+                "file": "Dessert/Kaiserschmarrn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dessert/cake/EnglisherKuchenFrZeller.md"
+                "file": "Dessert/Kaiserschmarrn.md"
               }
             }
           }
@@ -166,12 +166,17 @@
   },
   "active": "2c9945c67c1528b2",
   "lastOpenFiles": [
+    "Dessert/Griesbrei.md",
+    "Dessert/cookies/ChocolateChipCookies.md",
+    "Dessert/cake/Bananenbrot.md",
     "Dessert/cake/BiskuitrolleFrZeller.md",
+    "Dessert/cake/Brownies.md",
     "Dessert/cake/EnglisherKuchenFrZeller.md",
+    "Dessert/cake/Fr Zeller Apfelkuchen.md",
+    "Dessert/cake/jamiesBananenbrot.md",
+    "Dessert/cake/Tiroler-Nusskuchen.md",
     "suppe/Kuerbissuppe.md",
     "Dessert/cake/ErdbeerRolleFrZeller.md",
-    "Dessert/cake/Brownies.md",
-    "Dessert/cake/Bananenbrot.md",
     "suppe/ZwiebelSenfSuppe.md",
     "suppe/PilzSuppe.md",
     "suppe/Kartoffelsuppe.md",
@@ -185,14 +190,9 @@
     "Welcome.md",
     "Breakfast/NealsPfannkuchen.md",
     "Breakfast/AmericanPancakes.md",
-    "Dessert/cake/Fr Zeller Apfelkuchen.md",
     "Chicken Tikka Masala.md",
     "SideDish",
     "docs/general/Garlic Bread.md",
-    "Dessert.md",
-    "docs/sandwiches/Clubsandwich-Lachs.md",
-    "docs/general/MildesGemueseCurry.md",
-    "docs/fleisch/UsbekischerPlow.md",
     "SideDish",
     "Cake",
     "Dessert/Kaiserschmarrn.jpg",
