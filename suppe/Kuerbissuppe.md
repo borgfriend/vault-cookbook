@@ -1,4 +1,4 @@
-#soup 
+#soup #vegetarian 
 
 ## Zutaten
 

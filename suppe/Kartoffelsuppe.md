@@ -1,3 +1,4 @@
+#soup #vegetarian 
 # Kartoffelsuppe mit Kichererbsen
 * **Zeit:**  
 * **Personen:** 4
