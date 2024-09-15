@@ -23,3 +23,6 @@ Pfeffer
 frisch geriebene Muskatnuss
 
 ## Zubreitung
+1. Kurbis,Kartoffel wuerfeln
+2. Zwiebel, Knoblauch fein wuerfeln
+3. Butter schmelzen und Ziebel + Knoblauch 
