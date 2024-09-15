@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "suppe/ZwiebelSenfSuppe.md",
+                "file": "Dessert/cake/Bananenbrot.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "suppe/ZwiebelSenfSuppe.md",
+                "file": "Dessert/cake/Bananenbrot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "suppe/ZwiebelSenfSuppe.md",
+                "file": "Dessert/cake/Bananenbrot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "suppe/ZwiebelSenfSuppe.md"
+                "file": "Dessert/cake/Bananenbrot.md"
               }
             }
           }
@@ -166,6 +166,7 @@
   },
   "active": "2c9945c67c1528b2",
   "lastOpenFiles": [
+    "suppe/ZwiebelSenfSuppe.md",
     "suppe/PilzSuppe.md",
     "suppe/Kuerbissuppe.md",
     "suppe/Kartoffelsuppe.md",
@@ -194,7 +195,6 @@
     "docs/Untitled.md",
     "Cake",
     "docs/intro.md",
-    "Dessert/Kaiserschmarrn.md",
     "Dessert/Kaiserschmarrn.jpg",
     "Dessert",
     "suppe",
