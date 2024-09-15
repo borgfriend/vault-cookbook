@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dessert/cake/Bananenbrot.md",
+                "file": "Dessert/cake/EnglisherKuchenFrZeller.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "suppe/Kuerbissuppe.md",
+                "file": "Dessert/cake/BiskuitrolleFrZeller.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dessert/cake/Bananenbrot.md",
+                "file": "Dessert/cake/EnglisherKuchenFrZeller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dessert/cake/Bananenbrot.md",
+                "file": "Dessert/cake/EnglisherKuchenFrZeller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dessert/cake/Bananenbrot.md"
+                "file": "Dessert/cake/EnglisherKuchenFrZeller.md"
               }
             }
           }
@@ -166,9 +166,14 @@
   },
   "active": "2c9945c67c1528b2",
   "lastOpenFiles": [
+    "Dessert/cake/BiskuitrolleFrZeller.md",
+    "Dessert/cake/EnglisherKuchenFrZeller.md",
+    "suppe/Kuerbissuppe.md",
+    "Dessert/cake/ErdbeerRolleFrZeller.md",
+    "Dessert/cake/Brownies.md",
+    "Dessert/cake/Bananenbrot.md",
     "suppe/ZwiebelSenfSuppe.md",
     "suppe/PilzSuppe.md",
-    "suppe/Kuerbissuppe.md",
     "suppe/Kartoffelsuppe.md",
     "suppe/Cocobello-Suppe.md",
     "Dinner.md",
@@ -188,13 +193,8 @@
     "docs/sandwiches/Clubsandwich-Lachs.md",
     "docs/general/MildesGemueseCurry.md",
     "docs/fleisch/UsbekischerPlow.md",
-    "Dessert/Griesbrei.md",
-    "Breakfast/Cheap Breakfast Sandwich.md",
     "SideDish",
-    "docs/fleisch/Philly Cheesesteak Variant.md",
-    "docs/Untitled.md",
     "Cake",
-    "docs/intro.md",
     "Dessert/Kaiserschmarrn.jpg",
     "Dessert",
     "suppe",
