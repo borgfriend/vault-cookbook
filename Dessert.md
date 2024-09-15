@@ -5,7 +5,7 @@
 * [[ChocolateChipCookies]]
 
 ## Cake
-* [[ApfelkuchenFrZeller]]
+* [[Fr Zeller Apfelkuchen]]
 * [[Bananenbrot]]
 * [[BiskuitrolleFrZeller]]
 * [[Brownies]]
