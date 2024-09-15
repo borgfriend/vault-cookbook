@@ -29,4 +29,8 @@ frisch geriebene Muskatnuss
 4. Kuerbis, Kartoffel dazugeben (2min)
 5. mit 500ml Gemuesebruehe fuer 20min auf mittlerer Hitze
 6. Sahne hinzugeben
-7. Salz, Peffer und Muskatnuss
+7. Alles mit dem purierstab mixen
+8. Salz, Peffer und Muskatnuss wuerzen
+
+## Original
+https://www.eatbetter.de/rezepte/klassische-kuerbissuppe-nach-omas-rezept?portions=2
