@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Breakfast.md",
+                "file": "suppe/ChilliConCarne.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Breakfast.md",
+                "file": "suppe/ChilliConCarne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Breakfast.md",
+                "file": "suppe/ChilliConCarne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Breakfast.md"
+                "file": "suppe/ChilliConCarne.md"
               }
             }
           }
@@ -161,7 +161,9 @@
   },
   "active": "1d29d5871bdf09e0",
   "lastOpenFiles": [
-    "Maharadsha Reis.md",
+    "docs/Protein Maxed Chicken Fried Rice.md",
+    "Breakfast.md",
+    "SideDish/Maharadsha Reis.md",
     "Side Dish.md",
     "Welcome.md",
     "Breakfast/NealsPfannkuchen.md",
@@ -169,10 +171,10 @@
     "Dinner.md",
     "Dessert/cake/Fr Zeller Apfelkuchen.md",
     "Chicken Tikka Masala.md",
-    "Untitled",
+    "SideDish",
     "docs/general/Garlic Bread.md",
     "Dessert.md",
-    "docs/suppe/Cocobello-Suppe.md",
+    "suppe/Cocobello-Suppe.md",
     "docs/sandwiches/Clubsandwich-Lachs.md",
     "docs/general/MildesGemueseCurry.md",
     "docs/fleisch/UsbekischerPlow.md",
@@ -181,18 +183,16 @@
     "SideDish",
     "docs/fleisch/Philly Cheesesteak Variant.md",
     "docs/Untitled.md",
-    "docs/Protein Maxed Chicken Fried Rice.md",
-    "Breakfast.md",
     "Cake",
     "docs/intro.md",
     "Dessert/Kaiserschmarrn.md",
     "Dessert/Kaiserschmarrn.jpg",
     "Dessert/Waffeln.md",
     "Dessert",
-    "docs/suppe/ZwiebelSenfSuppe.md",
-    "docs/suppe/PilzSuppe.md",
-    "docs/suppe/Kartoffelsuppe.md",
-    "docs/suppe",
+    "suppe/ZwiebelSenfSuppe.md",
+    "suppe/PilzSuppe.md",
+    "suppe/Kartoffelsuppe.md",
+    "suppe",
     "docs/sandwiches",
     "docs/pasta/Zapekana.jpg",
     "docs/pasta/LinguineMitGarnelen.jpg",
