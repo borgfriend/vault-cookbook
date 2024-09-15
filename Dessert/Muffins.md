@@ -1,8 +1,4 @@
----
-title: Muffin Grundrezept (mit Steuseln)
----
-
-
+#dessert 
 
 Zuerst 200 g Mehl in eine Schüssel sieben. 100 g Zucker und einen TL Backpulver hinzugeben. Alles gut verrühren und in die Mitte eine Vertiefung drücken. 
 Nun 100 g Butter schmelzen und etwas abkühlen lassen. Mit einem Eiern und 125ml Milch verrühren und das Ganze in die Vertiefung der Mehlmischung geben. Alles mit einem Kochlöffel grob zu einem Teig verrühren. 

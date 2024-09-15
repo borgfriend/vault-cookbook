@@ -11,12 +11,8 @@
             "id": "2c9945c67c1528b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dessert/Kaiserschmarrn.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dessert/Kaiserschmarrn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dessert/Kaiserschmarrn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dessert/Kaiserschmarrn.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -166,6 +158,9 @@
   },
   "active": "2c9945c67c1528b2",
   "lastOpenFiles": [
+    "Dessert/Waffeln.md",
+    "Dessert/Muffins.md",
+    "Dessert/Kaiserschmarrn.md",
     "Dessert/Griesbrei.md",
     "Dessert/cookies/ChocolateChipCookies.md",
     "Dessert/cake/Bananenbrot.md",
@@ -189,10 +184,7 @@
     "Side Dish.md",
     "Welcome.md",
     "Breakfast/NealsPfannkuchen.md",
-    "Breakfast/AmericanPancakes.md",
-    "Chicken Tikka Masala.md",
     "SideDish",
-    "docs/general/Garlic Bread.md",
     "SideDish",
     "Cake",
     "Dessert/Kaiserschmarrn.jpg",
