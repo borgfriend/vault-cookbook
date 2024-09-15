@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/fish/Einfaches Fischcurry mit Garnelen Fish und Tomaten.md",
+                "file": "Main/fish/Lachssteaks.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/fish/Einfaches Fischcurry mit Garnelen Fish und Tomaten.md",
+                "file": "Main/fish/Lachssteaks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/fish/Einfaches Fischcurry mit Garnelen Fish und Tomaten.md",
+                "file": "Main/fish/Lachssteaks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/fish/Einfaches Fischcurry mit Garnelen Fish und Tomaten.md"
+                "file": "Main/fish/Lachssteaks.md"
               }
             }
           }
@@ -164,8 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c9945c67c1528b2",
+  "active": "18083a79ae2b1b37",
   "lastOpenFiles": [
+    "Starter",
+    "Main/fish/Einfaches Fischcurry mit Garnelen Fish und Tomaten.md",
+    "docs/fish/Fisch-Paella.md",
     "Breakfast/NealsPfannkuchen.md",
     "Breakfast/Cheap Breakfast Sandwich.md",
     "Breakfast/AmericanPancakes.md",
@@ -181,30 +184,27 @@
     "Dessert/cake/Fr Zeller Apfelkuchen.md",
     "Dessert/cake/jamiesBananenbrot.md",
     "Dessert/cake/Tiroler-Nusskuchen.md",
-    "suppe/Kuerbissuppe.md",
+    "Starter/suppe/Kuerbissuppe.md",
     "Dessert/cake/ErdbeerRolleFrZeller.md",
-    "suppe/ZwiebelSenfSuppe.md",
-    "suppe/PilzSuppe.md",
-    "suppe/Kartoffelsuppe.md",
-    "suppe/Cocobello-Suppe.md",
+    "Starter/suppe/ZwiebelSenfSuppe.md",
+    "Starter/suppe/PilzSuppe.md",
+    "Starter/suppe/Kartoffelsuppe.md",
+    "Starter/suppe/Cocobello-Suppe.md",
     "Dinner.md",
-    "docs/general/ChilliConCarne.md",
-    "docs/Protein Maxed Chicken Fried Rice.md",
-    "Breakfast.md",
-    "SideDish/Maharadsha Reis.md",
+    "Main/general/ChilliConCarne.md",
     "SideDish",
     "SideDish",
     "Cake",
     "Dessert/Kaiserschmarrn.jpg",
     "Dessert",
-    "suppe",
-    "docs/sandwiches",
-    "docs/pasta/Zapekana.jpg",
-    "docs/pasta/LinguineMitGarnelen.jpg",
-    "docs/pasta",
-    "docs/indian",
-    "docs/general",
-    "docs/fleisch",
+    "Starter/suppe",
+    "Main/sandwiches",
+    "Main/pasta/Zapekana.jpg",
+    "Main/pasta/LinguineMitGarnelen.jpg",
+    "Main/pasta",
+    "Main/indian",
+    "Main/general",
+    "Main/fleisch",
     "Dessert/cookies/ChocolateChipCookies.jpg"
   ]
 }

@@ -1,4 +1,4 @@
-#main #
+#main #fish
 * **Zeit:**  30min
 * **Personen:** 4
 
