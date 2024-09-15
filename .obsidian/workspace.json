@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/fish/Lachssteaks.md",
+                "file": "Main/indian/Uppendi.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main/fish/Lachssteaks.md",
+                "file": "Main/indian/Uppendi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/fish/Lachssteaks.md",
+                "file": "Main/indian/Uppendi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/fish/Lachssteaks.md"
+                "file": "Main/indian/Uppendi.md"
               }
             }
           }
@@ -164,8 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18083a79ae2b1b37",
+  "active": "2c9945c67c1528b2",
   "lastOpenFiles": [
+    "Main/fleisch/BabyJaegerschnitzel.md",
+    "Main/fish/Lachssteaks.md",
     "Starter",
     "Main/fish/Einfaches Fischcurry mit Garnelen Fish und Tomaten.md",
     "docs/fish/Fisch-Paella.md",
@@ -184,27 +186,25 @@
     "Dessert/cake/Fr Zeller Apfelkuchen.md",
     "Dessert/cake/jamiesBananenbrot.md",
     "Dessert/cake/Tiroler-Nusskuchen.md",
-    "Starter/suppe/Kuerbissuppe.md",
+    "Starter/Soup/Kuerbissuppe.md",
     "Dessert/cake/ErdbeerRolleFrZeller.md",
-    "Starter/suppe/ZwiebelSenfSuppe.md",
-    "Starter/suppe/PilzSuppe.md",
-    "Starter/suppe/Kartoffelsuppe.md",
-    "Starter/suppe/Cocobello-Suppe.md",
+    "Starter/Soup/ZwiebelSenfSuppe.md",
+    "Starter/Soup/PilzSuppe.md",
+    "Starter/Soup/Kartoffelsuppe.md",
+    "Starter/Soup/Cocobello-Suppe.md",
     "Dinner.md",
-    "Main/general/ChilliConCarne.md",
     "SideDish",
     "SideDish",
     "Cake",
     "Dessert/Kaiserschmarrn.jpg",
     "Dessert",
-    "Starter/suppe",
+    "Starter/Soup",
     "Main/sandwiches",
     "Main/pasta/Zapekana.jpg",
     "Main/pasta/LinguineMitGarnelen.jpg",
     "Main/pasta",
     "Main/indian",
     "Main/general",
-    "Main/fleisch",
     "Dessert/cookies/ChocolateChipCookies.jpg"
   ]
 }

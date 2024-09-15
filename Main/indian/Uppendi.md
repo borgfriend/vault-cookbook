@@ -1,4 +1,4 @@
-# Uppendi
+#starter #indian #main
 
 ## Zutaten
 * öl
@@ -8,9 +8,9 @@
 * 1 Glass Gries
 * 2 Glaesser Wasser / Milch
 
-Topf mit öl bedecken, Senfkörner dazu, erhitzen wenn alle senfkörner zerplatzt sind 
-Zwiebeln dazu 
-Ein glas Grieß 
-Zwei glas Milch/Wasser  
-Kontinuierlich umrühren 
-Wenn es fest wird, 1/2 Zitrone hinzugießen und etwas Butter dazu geben
+1. Topf mit öl bedecken, Senfkörner dazu, erhitzen wenn alle senfkörner zerplatzt sind 
+2. Zwiebeln dazu 
+3. Ein glas Grieß 
+4. Zwei glas Milch/Wasser  
+5. Kontinuierlich umrühren 
+6. Wenn es fest wird, 1/2 Zitrone hinzugießen und etwas Butter dazu geben
