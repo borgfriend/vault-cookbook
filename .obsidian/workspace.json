@@ -11,8 +11,12 @@
             "id": "2c9945c67c1528b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/fish/Einfaches Fischcurry mit Garnelen Fish und Tomaten.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -99,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/fish/Einfaches Fischcurry mit Garnelen Fish und Tomaten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/fish/Einfaches Fischcurry mit Garnelen Fish und Tomaten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/fish/Einfaches Fischcurry mit Garnelen Fish und Tomaten.md"
+              }
             }
           }
         ]
@@ -158,6 +166,9 @@
   },
   "active": "2c9945c67c1528b2",
   "lastOpenFiles": [
+    "Breakfast/NealsPfannkuchen.md",
+    "Breakfast/Cheap Breakfast Sandwich.md",
+    "Breakfast/AmericanPancakes.md",
     "Dessert/Waffeln.md",
     "Dessert/Muffins.md",
     "Dessert/Kaiserschmarrn.md",
@@ -181,9 +192,6 @@
     "docs/Protein Maxed Chicken Fried Rice.md",
     "Breakfast.md",
     "SideDish/Maharadsha Reis.md",
-    "Side Dish.md",
-    "Welcome.md",
-    "Breakfast/NealsPfannkuchen.md",
     "SideDish",
     "SideDish",
     "Cake",

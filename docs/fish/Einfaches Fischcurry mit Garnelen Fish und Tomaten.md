@@ -1,4 +1,4 @@
-# Einfaches Fischcurry mit Garnelen Fish und Tomaten 
+#main #
 * **Zeit:**  30min
 * **Personen:** 4
 
