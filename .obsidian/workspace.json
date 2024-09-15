@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1479a0fb0924e293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "24bdf4f693d46efd",
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main/indian/Uppendi.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/indian/Uppendi.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/indian/Uppendi.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -164,8 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c9945c67c1528b2",
+  "active": "1479a0fb0924e293",
   "lastOpenFiles": [
+    "Main/indian/Uppendi.md",
+    "Untitled.md",
     "Main/fleisch/BabyJaegerschnitzel.md",
     "Main/fish/Lachssteaks.md",
     "Starter",
@@ -191,8 +206,6 @@
     "Starter/Soup/ZwiebelSenfSuppe.md",
     "Starter/Soup/PilzSuppe.md",
     "Starter/Soup/Kartoffelsuppe.md",
-    "Starter/Soup/Cocobello-Suppe.md",
-    "Dinner.md",
     "SideDish",
     "SideDish",
     "Cake",
