@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Resources.md"
               }
             }
           }
@@ -179,8 +179,9 @@
   },
   "active": "1479a0fb0924e293",
   "lastOpenFiles": [
+    "Dessert/cake/BiskuitrolleFrZeller.md",
+    "Resources.md",
     "Main/indian/Uppendi.md",
-    "Untitled.md",
     "Main/fleisch/BabyJaegerschnitzel.md",
     "Main/fish/Lachssteaks.md",
     "Starter",
@@ -195,7 +196,6 @@
     "Dessert/Griesbrei.md",
     "Dessert/cookies/ChocolateChipCookies.md",
     "Dessert/cake/Bananenbrot.md",
-    "Dessert/cake/BiskuitrolleFrZeller.md",
     "Dessert/cake/Brownies.md",
     "Dessert/cake/EnglisherKuchenFrZeller.md",
     "Dessert/cake/Fr Zeller Apfelkuchen.md",
