@@ -1,4 +1,4 @@
-# Cocobello-Suppe
+#soup #vegetarian 
 
 ## Zutaten
 * 300g Möhren
