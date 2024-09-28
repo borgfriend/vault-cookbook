@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "Main/indian/HähnchenTikkaMasala.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources.md",
+                "file": "Main/indian/HähnchenTikkaMasala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources.md",
+                "file": "Main/indian/HähnchenTikkaMasala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources.md"
+                "file": "Main/indian/HähnchenTikkaMasala.md"
               }
             }
           }
@@ -179,8 +179,8 @@
   },
   "active": "1479a0fb0924e293",
   "lastOpenFiles": [
-    "Dessert/cake/BiskuitrolleFrZeller.md",
     "Resources.md",
+    "Dessert/cake/BiskuitrolleFrZeller.md",
     "Main/indian/Uppendi.md",
     "Main/fleisch/BabyJaegerschnitzel.md",
     "Main/fish/Lachssteaks.md",
